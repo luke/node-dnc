@@ -1,6 +1,6 @@
 {
   "name": "node-dnc",
-  "description": "distributed notification center"
+  "description": "distributed notification center",
   "version": "0.0.0-unreleasable",
   "main": "dnc.coffee",
   "dependencies": {
